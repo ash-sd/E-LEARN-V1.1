@@ -2,14 +2,9 @@
 
 Project context
 
-Vous êtes un développeur backend, votre équipe a besoin de vous pour enregistrer les données de l'application web E-Classe sur la base de données.
+Vous êtes un développeur backend, votre équipe a besoin de vous pour développer une partie de backend d'une application web.
 
-Vous devez donc répondre aux histoires suivantes :
+Vous devez, donc, répondre aux histoires suivants :
 
-    Autant que Développeur backend PHP, je peux créer une base de données nommée e_classe_db
-    Autant que Développeur backend PHP, je peux connecter ma base de données avec l'application web E-Classe.
-    Autant que Développeur backend PHP, je peux ajouter trois tables students, courses et payment_details.
-    Autant que Développeur backend PHP, je peux appliquer le système CRUD (ajouter, afficher, modifier et supprimer) d'une manière dynamique sur les deux tables students et courses.
-    Autant que Développeur backend PHP, je peux ajouter et afficher seulement les données de la table payment_details.
-    Autant que Visiteur de l'application, je peux voir les cartes de statistiques sont dynamiques sur la page Dashboard.
-    Autant que Développeur backend PHP, je peux m'assurer que l'accéss à la base de données est sécurisé (optionnel).
+    Autant que Développeur backend PHP, je peux afficher la liste des étudiants contenu dans un fichier CSV, JSON, XML ou YAML.
+    Autant que Développeur backend PHP, je peux ajouter / modifier/supprimer un ou plusieurs étudiants dans un fichier CSV, JSON, XML ou YAML (optionnel).
